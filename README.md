@@ -8,37 +8,30 @@
 # Hi there <img alt="Hii_image" src="https://github.com/mr-litu/mr-litu/blob/main/Image/Hi_image.gif" width="60px"></img>
 
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=500&lines=Welcome+to+My+Official+Page." alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=500&lines=Welcome+to+My+Official+Page." alt="Shyam's Typing SVG" /></a>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=5000&color=447FF7&background=FFFFFF00&width=650&height=65&lines=Welcome+to+My+Official+Page.+🤓;😅+Welcome+to+My+Officaial+Page." alt="Shyam" width="650" height="65">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=5000&color=447FF7&background=FFFFFF00&width=650&height=65&lines=Welcome+to+My+Official+Page.+🤓;😅+Welcome+to+My+Officaial+Page." alt="Shyam's Typing SVG" width="650" height="65">
 
 
 <div align="center">
 <p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<img src="https://github-stats-alpha.vercel.app/api/?username=mr-litu&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=mr-litu&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="Shyam's Profile Report" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-litu&theme=white" alt="Shyam's GitHub Streak (White)" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-litu&theme=dark" alt="Shyam's GitHub Streak (Dark)" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-litu&show_icons=true&locale=en" alt="Shyam's GitHub Stats" />
 </div>
 
 
-<a href="https://github.com/mr-litu/github-profile-summary-cards">
-
-</div>
-
 <p align="center">
-<img width="1000" height="200" src="https://github.com/itzmrshyam/itzmrshyam/blob/main/coding.gif">
+<img alt="Men_Coding" width="1000" height="200" src="">
 </p>
-<a href="https://twitter.com/itz_mrshyam" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=77&duration=1900&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Any+Problem;OR;More+Update+;join+Telegram;Thank+you+🙏;+;" alt="ODISHA" width="999" height="99">
-<p align="left"> <a href="https://twitter.com/itz_mrshyam" target="blank"><img src="https://img.shields.io/twitter/follow/itz_mrshyam?logo=twitter&style=for-the-badge" alt="itz_mrshyam" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmrshyam&label=Profile%20views&color=0e75b6&style=flat" alt="itzmrshyam"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/itzmrshyam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/itzmrshyam?tab=followers)
-![Profilecount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itzmrshyam/&title=github%-65Views)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-litu&label=Profile%20views&color=0e75b6&style=flat" alt="Shyam Profile View Count"/>
+
+
 <a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <a href="https://youtube.com/channel/UCfk2wS7vZYzLR_Pk1eIb2yw"><p align="center">
 <img src="https://img.shields.io/badge/YouTube-black?logo=youtube" width="180">
