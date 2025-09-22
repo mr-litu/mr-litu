@@ -7,7 +7,7 @@
 
  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=500&lines=Welcome+to+My+Official+Page." alt="Typing SVG" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=5000&color=447FF7&background=FFFFFF00&width=650&height=55&lines=Welcome+to+My+Official+Page.+🤓;😅+Welcome+to+My+Officaial+Page." alt="Shyam" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=5000&color=447FF7&background=FFFFFF00&width=650&height=65&lines=Welcome+to+My+Official+Page.+🤓;😅+Welcome+to+My+Officaial+Page." alt="Shyam" width="650" height="65">
 
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{itzmrshyam}/count.svg"/></p>
