@@ -1,11 +1,11 @@
 
 <p align="center">
-<img alt="Cat_image" width="1000" height="200" src="">
+<img alt="GitHub_Cat" width="1000" height="200" src="https://github.com/mr-litu/mr-litu/blob/main/Image/GitHub_Cat.gif">
 </p>
 
-# Hi there <img alt="Hii_image" src="" width="60px"></h2>
+# Hi there <img alt="Hii_image" src="https://github.com/mr-litu/mr-litu/blob/main/Image/Hi_image.gif" width="60px"></img>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%red&size=30&duration=4000&center=true&vCenter=true&width=550&height=40&lines=Welcome+to+My+Official+Page.)](https://git.io/typing-svg) &nbsp;&nbsp;
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%yellow&size=30&duration=4000&center=true&vCenter=true&width=550&height=35&lines=Welcome+to+My+Official+Page.)](https://git.io/typing-svg) &nbsp;&nbsp;
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=60&duration=5000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Shyam+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Iti+Student+🧑🏻‍🔧+;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small;Youtuber+🕵️;Please+Support;Subscribe+;Thanks+🙏;+;" alt="Shyam" width="650" height="55">
 
