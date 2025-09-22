@@ -5,14 +5,12 @@
 
 # Hi there <img alt="Hii_image" src="https://github.com/mr-litu/mr-litu/blob/main/Image/Hi_image.gif" width="60px"></img>
 
- <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=500&lines=Welcome+to+My+Official+Page." alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&width=500&lines=Welcome+to+My+Official+Page." alt="Typing SVG" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&duration=5000&color=447FF7&background=FFFFFF00&width=650&height=65&lines=Welcome+to+My+Official+Page.+🤓;😅+Welcome+to+My+Officaial+Page." alt="Shyam" width="650" height="65">
 
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itzmrshyam}/count.svg"/></p>
-<img src="https://github-stats-alpha.vercel.app/api/?username=itzmrshyam&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=mr-litu&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=dark)](https://github.com/itzmrshyam/github-readme-streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmrshyam&theme=white)](https://github.com/itzmrshyam/github-readme-streak-stats)
